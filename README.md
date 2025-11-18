@@ -12,7 +12,7 @@ Este é um estudo de caso que consiste em uma aplicação de listagem e detalhes
 ##  API de Alunos
 
 A aplicação consome a API REST documentada via Swagger:
-[cite_start][https://proweb.leoproti.com.br/swagger-ui/index.html](https://proweb.leoproti.com.br/swagger-ui/index.html) 
+[https://proweb.leoproti.com.br/swagger-ui/index.html](https://proweb.leoproti.com.br/swagger-ui/index.html) 
 
 ## Instruções de Instalação e Execução 
 
