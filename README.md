@@ -16,7 +16,14 @@ A aplicação consome a API REST documentada via Swagger:
 
 ## Instruções de Instalação e Execução 
 
-### 1. Pré-requisitos
+###  Pré-requisitos
 * Node.js e npm (ou yarn) instalados.
 * Para Mobile: Expo CLI instalado (`npm install -g expo-cli`).
+
+###  Funcionalidades
+* Tela inicial com botões para alunos 
+* Tela de detalhes do aluno selecionado 
+* Navegação entre telas 
+* Consumo da mesma API REST de alunos
+
 
