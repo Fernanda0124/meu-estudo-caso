@@ -26,4 +26,6 @@ A aplicação consome a API REST documentada via Swagger:
 * Navegação entre telas 
 * Consumo da mesma API REST de alunos
 
+Link do site do vercel: https://meu-estudo-caso-sviy-lj9d2gb6c-fernanda0124s-projects.vercel.app/
+
 
